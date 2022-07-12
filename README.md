@@ -1,6 +1,6 @@
 <div align="center">
-<h3>Hey, There!</h3>
-<p>My name is Jhonatan Teotonio and currently I'm a Computer Science student.</p>
+<h3>Hey There!</h3>
+<p>My name is Jhonatan, I'm 20 years old and currently I'm a Computer Science student.</p>
 </div>
 
 <div align="center">

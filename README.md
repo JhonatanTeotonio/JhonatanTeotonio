@@ -2,12 +2,14 @@
 <h3>Hey There!</h3>
 <p>My name is Jhonatan, I'm 20 years old and currently I'm a Computer Science student.</p>
 </div>
-
+<hr>
 <div align="center">
   <a href="https://github.com/JhonatanTeotonio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JhonatanTeotonio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanTeotonio&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<hr> 
 
 <div align="center">
 <h3>Where you can find-me: </h3>

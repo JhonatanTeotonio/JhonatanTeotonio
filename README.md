@@ -1,6 +1,6 @@
 <div align="left">
 <h3>Hello there! 👋🏽</h3>
-<p>I'm a 20-year-old developer who's passionate about building beautiful, user-friendly web applications. My main skills are HTML, CSS, Java, JavaScript, and React, and I'm always looking for opportunities to expand my knowledge in these technologies. I'm particularly interested in creating dynamic, interactive web experiences that engage users and solve problems.</p>
+<p>I'm a 20-year-old aspiring developer who's passionate about building beautiful, user-friendly web applications. My main skills are HTML, CSS, Java, JavaScript, and React, and I'm always looking for opportunities to expand my knowledge in these technologies. I'm particularly interested in creating dynamic, interactive web experiences that engage users and solve problems.</p>
 
 <p>On my GitHub profile, you'll find a collection of projects that showcase my skills and creativity. From simple landing pages to full-featured applications.</p>
 </div>
